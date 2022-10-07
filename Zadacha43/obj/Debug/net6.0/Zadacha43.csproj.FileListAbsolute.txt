@@ -1,0 +1,15 @@
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.csproj.AssemblyReference.cache
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.AssemblyInfoInputs.cache
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.AssemblyInfo.cs
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.csproj.CoreCompileInputs.cache
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\bin\Debug\net6.0\Zadacha43.exe
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\bin\Debug\net6.0\Zadacha43.deps.json
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\bin\Debug\net6.0\Zadacha43.runtimeconfig.json
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\bin\Debug\net6.0\Zadacha43.dll
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\bin\Debug\net6.0\Zadacha43.pdb
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.dll
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\refint\Zadacha43.dll
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.pdb
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\Zadacha43.genruntimeconfig.cache
+C:\Users\olgaa\Desktop\seminar6\Zadacha43\obj\Debug\net6.0\ref\Zadacha43.dll
